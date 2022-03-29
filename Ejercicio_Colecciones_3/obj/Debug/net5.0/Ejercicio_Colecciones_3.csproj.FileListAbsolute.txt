@@ -1,0 +1,16 @@
+C:\Users\tincho\Documents\Repo_Community\ejercicio_Colecciones\Ejercicio_Colecciones_3\bin\Debug\net5.0\Ejercicio_Colecciones_3.exe
+C:\Users\tincho\Documents\Repo_Community\ejercicio_Colecciones\Ejercicio_Colecciones_3\bin\Debug\net5.0\Ejercicio_Colecciones_3.deps.json
+C:\Users\tincho\Documents\Repo_Community\ejercicio_Colecciones\Ejercicio_Colecciones_3\bin\Debug\net5.0\Ejercicio_Colecciones_3.runtimeconfig.json
+C:\Users\tincho\Documents\Repo_Community\ejercicio_Colecciones\Ejercicio_Colecciones_3\bin\Debug\net5.0\Ejercicio_Colecciones_3.runtimeconfig.dev.json
+C:\Users\tincho\Documents\Repo_Community\ejercicio_Colecciones\Ejercicio_Colecciones_3\bin\Debug\net5.0\Ejercicio_Colecciones_3.dll
+C:\Users\tincho\Documents\Repo_Community\ejercicio_Colecciones\Ejercicio_Colecciones_3\bin\Debug\net5.0\ref\Ejercicio_Colecciones_3.dll
+C:\Users\tincho\Documents\Repo_Community\ejercicio_Colecciones\Ejercicio_Colecciones_3\bin\Debug\net5.0\Ejercicio_Colecciones_3.pdb
+C:\Users\tincho\Documents\Repo_Community\ejercicio_Colecciones\Ejercicio_Colecciones_3\obj\Debug\net5.0\Ejercicio_Colecciones_3.csproj.AssemblyReference.cache
+C:\Users\tincho\Documents\Repo_Community\ejercicio_Colecciones\Ejercicio_Colecciones_3\obj\Debug\net5.0\Ejercicio_Colecciones_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tincho\Documents\Repo_Community\ejercicio_Colecciones\Ejercicio_Colecciones_3\obj\Debug\net5.0\Ejercicio_Colecciones_3.AssemblyInfoInputs.cache
+C:\Users\tincho\Documents\Repo_Community\ejercicio_Colecciones\Ejercicio_Colecciones_3\obj\Debug\net5.0\Ejercicio_Colecciones_3.AssemblyInfo.cs
+C:\Users\tincho\Documents\Repo_Community\ejercicio_Colecciones\Ejercicio_Colecciones_3\obj\Debug\net5.0\Ejercicio_Colecciones_3.csproj.CoreCompileInputs.cache
+C:\Users\tincho\Documents\Repo_Community\ejercicio_Colecciones\Ejercicio_Colecciones_3\obj\Debug\net5.0\Ejercicio_Colecciones_3.dll
+C:\Users\tincho\Documents\Repo_Community\ejercicio_Colecciones\Ejercicio_Colecciones_3\obj\Debug\net5.0\ref\Ejercicio_Colecciones_3.dll
+C:\Users\tincho\Documents\Repo_Community\ejercicio_Colecciones\Ejercicio_Colecciones_3\obj\Debug\net5.0\Ejercicio_Colecciones_3.pdb
+C:\Users\tincho\Documents\Repo_Community\ejercicio_Colecciones\Ejercicio_Colecciones_3\obj\Debug\net5.0\Ejercicio_Colecciones_3.genruntimeconfig.cache

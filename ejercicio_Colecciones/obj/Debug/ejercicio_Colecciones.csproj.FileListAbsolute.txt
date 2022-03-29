@@ -1,0 +1,7 @@
+C:\Users\tincho\Documents\Repo_Community\ejercicio_Colecciones\ejercicio_Colecciones\bin\Debug\ejercicio_Colecciones.exe.config
+C:\Users\tincho\Documents\Repo_Community\ejercicio_Colecciones\ejercicio_Colecciones\bin\Debug\ejercicio_Colecciones.exe
+C:\Users\tincho\Documents\Repo_Community\ejercicio_Colecciones\ejercicio_Colecciones\bin\Debug\ejercicio_Colecciones.pdb
+C:\Users\tincho\Documents\Repo_Community\ejercicio_Colecciones\ejercicio_Colecciones\obj\Debug\ejercicio_Colecciones.csproj.AssemblyReference.cache
+C:\Users\tincho\Documents\Repo_Community\ejercicio_Colecciones\ejercicio_Colecciones\obj\Debug\ejercicio_Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\tincho\Documents\Repo_Community\ejercicio_Colecciones\ejercicio_Colecciones\obj\Debug\ejercicio_Colecciones.exe
+C:\Users\tincho\Documents\Repo_Community\ejercicio_Colecciones\ejercicio_Colecciones\obj\Debug\ejercicio_Colecciones.pdb
